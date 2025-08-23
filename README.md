@@ -1,6 +1,6 @@
 (❁´◡`❁) Kauã de sousa (≧▽≦q)
 
-Me chamo Kauã de Sousa, tenho 20 anos e sou natural de Brasília. Estou perto de concluir o curso técnico em informática (em 2025). Pretendo começar a cursar engenharia de software na UDF (em 2025). Gosto muito de desenvolvimento web mas também quero obter conhecimento em outras áreas de desenvolvimento.
+Me chamo Kauã de Sousa, tenho 20 anos e sou de Brasília. Me formei em técnico em informática (em 2025). Curso engenharia de software na UDF (em 2025). Gosto muito de desenvolvimento web e também quero obter conhecimento em outras áreas da programação.
 
 ---
 
