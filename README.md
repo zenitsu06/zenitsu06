@@ -5,6 +5,7 @@ Me chamo Kauã de Sousa, tenho 20 anos e sou de Brasília. Me formei em técnico
 ---
 
 ### 🤖 Linguagens e Tecnologias
+Clique <a href="https://zenitsu06.github.io/">aqui</a> para ver meu site
 
 <img 
     align="left" 
